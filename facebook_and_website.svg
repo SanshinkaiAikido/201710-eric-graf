@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.1 r15371"
    width="1200"
    height="675"
    viewBox="0 0 1200 675.00002"
@@ -50,9 +50,9 @@
      units="px"
      borderlayer="true"
      inkscape:showpageshadow="false"
-     inkscape:zoom="1.2058333"
-     inkscape:cx="600"
-     inkscape:cy="337.5"
+     inkscape:zoom="0.42632645"
+     inkscape:cx="442.28587"
+     inkscape:cy="216.17442"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -64,28 +64,20 @@
        orientation="0,1"
        id="guide4327"
        inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false" />
     <sodipodi:guide
        position="0,360.00001"
        orientation="0,1"
        id="guide4329"
        inkscape:label=""
-       inkscape:color="rgb(0,0,255)" />
+       inkscape:color="rgb(0,0,255)"
+       inkscape:locked="false" />
   </sodipodi:namedview>
-  <image
-     sodipodi:absref="/home/sander/workspace/aikido/201710-eric-graf/sebastian-unrau-41675.jpg"
-     xlink:href="sebastian-unrau-41675.jpg"
-     transform="matrix(0.23182545,-0.9727574,0.9727574,0.23182545,0,0)"
-     y="-908.09668"
-     x="-930.66046"
-     id="image10"
-     preserveAspectRatio="none"
-     height="2232.2834"
-     width="3354.2688" />
   <flowRoot
      xml:space="preserve"
      id="flowRoot3629"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      transform="translate(0,-813.189)"><flowRegion
        id="flowRegion3631"><rect
          id="rect3633"
@@ -93,15 +85,25 @@
          height="109.14587"
          x="-154.22786"
          y="705.18604" /></flowRegion><flowPara
-       id="flowPara3635" /></flowRoot>  <text
+       id="flowPara3635"
+       style="font-size:40px;line-height:1.25"> </flowPara></flowRoot>  <text
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      x="1383.3052"
      y="729.57288"
-     id="text3696"
-     sodipodi:linespacing="125%"><tspan
+     id="text3696"><tspan
        sodipodi:role="line"
        id="tspan3698"
        x="1383.3052"
-       y="729.57288" /></text>
+       y="729.57288"
+       style="font-size:40px;line-height:1.25"> </tspan></text>
+  <image
+     sodipodi:absref="/home/sander/workspace/aikido/201710-eric-graf/sebastian-unrau-41675.jpg"
+     xlink:href="sebastian-unrau-41675.jpg"
+     width="1200"
+     height="701.64648"
+     preserveAspectRatio="none"
+     id="image1430"
+     x="0"
+     y="-13.323242" />
 </svg>
